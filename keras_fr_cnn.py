@@ -139,6 +139,3 @@ if __name__ == '__main__':
     for i in range(0,40):
         if y_test[i] != classes[i]:
             print(y_test[i], '被错误分成', classes[i]);
-
-
-    # hahahaha
